@@ -10,7 +10,7 @@
 
 - **Interview Tracker** *(private)* — Next.js, TypeScript, Notion API
 - **PR Dashboard** *(private)* — Next.js, TypeScript
-- **Games Counter** *(private)* — Kotlin, Android
+- **[Games Counter](https://github.com/mcodigo24/gamescounter)** — Kotlin, Android
 - **[EM Gaming Solutions](https://github.com/mcodigo24/emsolutions)** — JavaScript/TypeScript, [live](https://emgamingsolutions.vercel.app)
 - **[Memorecetas](https://github.com/mcodigo24/memorecetas)** — JavaScript/TypeScript, [live](https://memorecetas.vercel.app)
 
