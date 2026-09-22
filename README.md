@@ -1,12 +1,36 @@
 <h1 align="center">Hi 👋, I'm Matias Melczer</h1>
-<h3 align="center">A passionate fullstack developer from Buenos Aires, Argentina.</h3>
+<h3 align="center">Fullstack Developer based in Buenos Aires, Argentina</h3>
+<p align="center">TypeScript/React/Next.js on the front end · C#/.NET and Node.js on the back end. Currently open to new opportunities.</p>
 
-- 📫 How to reach me **mcodigo24@gmail.com**
+<p align="center">📫 <b>mcodigo24@gmail.com</b> &nbsp;·&nbsp; <a href="https://linkedin.com/in/matias-m-261819199">LinkedIn</a></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matias-m-261819199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-m-261819199" height="30" width="40" /></a>
+---
+
+### Featured projects
+
+- **Interview Tracker** *(private)* — dashboard to track job-interview processes and their stages, backed entirely by Notion as the datastore. Next.js 16 (App Router, server actions), TypeScript, Tailwind CSS v4, HMAC-signed session auth.
+- **PR Dashboard** *(private)* — internal tool built with Next.js and TypeScript.
+- **Games Counter** *(private)* — Android app written in Kotlin.
+- **[Car Rental](https://github.com/mcodigo24/car_rental_app)** — fullstack rental platform: Angular + SCSS frontend consuming a [C#/.NET REST API](https://github.com/mcodigo24/car-rental-api).
+- **[EM Gaming Solutions](https://github.com/mcodigo24/emsolutions)** — JavaScript/TypeScript web app, [live](https://emgamingsolutions.vercel.app).
+- **[Memorecetas](https://github.com/mcodigo24/memorecetas)** — recipe app, JavaScript/TypeScript, [live](https://memorecetas.vercel.app).
+
+### Stack
+
+```
+Frontend   TypeScript · React · Next.js · Angular · Tailwind CSS · SCSS
+Backend    C# / .NET · Node.js · REST APIs
+Mobile     Kotlin (Android)
+Data       SQL Server · MongoDB · Firebase · Notion API
+Tooling    Git · Docker · Jenkins · AWS · Azure · Vercel · Postman
+```
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mcodigo24&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcodigo24&layout=compact&exclude_repo=mcodigo24&hide=html,css&theme=tokyonight" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcodigo24&theme=tokyonight" />
+</p>
